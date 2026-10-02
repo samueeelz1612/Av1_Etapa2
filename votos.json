@@ -1,0 +1,32 @@
+[
+  {
+    "eleitor": 1,
+    "votos": {
+      "Deputado Federal": {
+        "numero": "2570",
+        "nome": "VOTO NULO",
+        "tipo": "NULO"
+      },
+      "Deputado Estadual": {
+        "numero": "45358",
+        "nome": "VOTO NULO",
+        "tipo": "NULO"
+      },
+      "Senador": {
+        "numero": "085",
+        "nome": "VOTO NULO",
+        "tipo": "NULO"
+      },
+      "Governador": {
+        "numero": "41",
+        "nome": "VOTO NULO",
+        "tipo": "NULO"
+      },
+      "Presidente": {
+        "numero": "52",
+        "nome": "VOTO NULO",
+        "tipo": "NULO"
+      }
+    }
+  }
+]

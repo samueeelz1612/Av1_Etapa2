@@ -1,14 +1,44 @@
 [
   {
-    "nome": "Magali Lima",
+    "nome": "Mônica",
     "numero": "94",
-    "foto": "https://via.placeholder.com/150?text=Magali",
+    "foto": "imagem monica.jpg",
     "cargo": "Presidente"
   },
   {
-    "nome": "Mônica Sousa",
+    "nome": "Cebolinha",
     "numero": "941",
-    "foto": "https://via.placeholder.com/150?text=Monica",
+    "foto": "imagem cebolinha.png",
+    "cargo": "Governador"
+  },
+  {
+    "nome": "Cascão",
+    "numero": "9421",
+    "foto": "imagem cascao.jpg",
     "cargo": "Senador"
+  },
+  {
+    "nome": "Magali",
+    "numero": "9422",
+    "foto": "imagem magali.jpg",
+    "cargo": "Senador"
+  },
+  {
+    "nome": "Chico Bento",
+    "numero": "94123",
+    "foto": "imagem chico bento.jpg",
+    "cargo": "Deputado Federal"
+  },
+  {
+    "nome": "Franjinha",
+    "numero": "941234",
+    "foto": "franjinha png.png",
+    "cargo": "Deputado Estadual"
+  },
+  {
+    "nome": "Bidu",
+    "numero": "941235",
+    "foto": "bidu png.png",
+    "cargo": "Deputado Estadual"
   }
 ]
